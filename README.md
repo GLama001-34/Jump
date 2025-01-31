@@ -10,7 +10,4 @@
 
 | **Key**             | **Action**             |
 | ------------------- | ---------------------- |
-| `W`                 | Move Up                |
-| `S`                 | Move Down              |
-| `A`                 | Turn Left              |
-| `D`                 | Turn Right             |
+| `Any key`           | Jump                   |
